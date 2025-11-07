@@ -23,7 +23,7 @@ Model	Local Retrieval QA Chain
 Interface	Command-Line Interface (CLI)
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/rag-assistant.git
+git clone https://github.com/Rachanashivarkar/rag-assistant.git
 cd rag-assistant
 
 2️⃣ Create a Virtual Environment
